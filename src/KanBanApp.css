@@ -340,21 +340,23 @@ textarea {
 
   .card.big input[type=text] {
     width: 92%;
+    font-size: 2vw;
   }
 
   .card.big textarea {
     width: 92%;
+    font-size: 2vw;
   }
 
   .card.big label {
     width: auto;
     margin-right: 3vw;
-    font-size: 3vw;
+    font-size: 2vw;
   }
 
   .card.big select {
     width: auto;
-    font-size: 3vw;
+    font-size: 2vw;
   }
 
   .card.big input[type=color] {
@@ -363,7 +365,7 @@ textarea {
   }
 
   .card.big button {
-    font-size: 3vw;
+    font-size: 2vw;
   }
 }
 
@@ -393,29 +395,31 @@ textarea {
 
   .card.big input[type=text] {
     width: 92%;
+    font-size: 2vw;
   }
 
   .card.big textarea {
     width: 92%;
+    font-size: 2vw;
   }
 
   .card.big label {
     width: auto;
     margin-right: 3vw;
-    font-size: 5vw;
+    font-size: 2vw;
   }
 
   .card.big select {
     width: auto;
-    font-size: 5vw;
+    font-size: 2vw;
   }
 
   .card.big input[type=color] {
-    height: 3vh;
+    height: 5vh;
     width: 15vw;
   }
 
   .card.big button {
-    font-size: 4vw;
+    font-size: 2vw;
   }
 }
