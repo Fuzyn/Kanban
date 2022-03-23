@@ -390,28 +390,28 @@ textarea {
 
   .card.big {
     width: 80%;
-    height: 30vh;
+    height: 25vh;
   }
 
   .card.big input[type=text] {
     width: 92%;
-    font-size: 2vw;
+    font-size: 2.5vw;
   }
 
   .card.big textarea {
     width: 92%;
-    font-size: 2vw;
+    font-size: 2.5vw;
   }
 
   .card.big label {
     width: auto;
     margin-right: 3vw;
-    font-size: 2vw;
+    font-size: 2.5vw;
   }
 
   .card.big select {
     width: auto;
-    font-size: 2vw;
+    font-size: 2.5vw;
   }
 
   .card.big input[type=color] {
